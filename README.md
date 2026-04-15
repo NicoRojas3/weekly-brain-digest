@@ -14,3 +14,6 @@ Output: Generates a "Premium" PDF with clean formatting for easy reading on my t
 Environment: Developed and run entirely in Google Colab.
 Database: Notion API.
 PDF Engine: fpdf2 for custom layouts.
+
+## Model on how to create the DB on Notion to make the code work
+https://nicorojas.notion.site/quote-database-nr?source=copy_link
